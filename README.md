@@ -99,7 +99,8 @@ Create a ```.env``` file:
 - Obtain a Perplexity API key from the Perplexity AI platform.
 - Create a .env file in the project root directory.
 - Add the API key to the .env file:
-```PPLX_API_KEY=<your_perplexity_api_key>
+```
+PPLX_API_KEY=<your_perplexity_api_key>
 ```
 
 *Run the Streamlit Application:*
