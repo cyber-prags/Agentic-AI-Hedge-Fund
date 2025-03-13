@@ -81,16 +81,13 @@ The AI Hedge Fund Analysis tool comprises the following specialized agents:
 
 Install the dependencies using:
 
-```bash
+```
 pip install streamlit pillow python-dotenv langchain langchain_community
 ```
 
 ## Setup and Configuration
 *Clone the Repository:*
 ```
-Bash
-
-
 git clone <repository_url>
 cd <repository_directory>
 ```
@@ -105,8 +102,6 @@ PPLX_API_KEY=<your_perplexity_api_key>
 
 *Run the Streamlit Application:*
 ```
-Bash
-
 streamlit run app.py
 ```
 
