@@ -88,8 +88,7 @@ pip install streamlit pillow python-dotenv langchain langchain_community
 ## Setup and Configuration
 *Clone the Repository:*
 ```
-git clone <repository_url>
-cd <repository_directory>
+git clone [<repository_url>](https://github.com/cyber-prags/Agentic-AI-Hedge-Fund/blob/main/README.md#9--summary-agent)
 ```
 
 Create a ```.env``` file:
