@@ -12,17 +12,57 @@ This Streamlit application, `AI Hedge Fund Analysis`, leverages the power of Lar
 
 Test out the webapp at: https://pj-agentic-ai-hedge-fund.streamlit.app/
 
-The application is designed to:
+## **Application Features**
+The AI Hedge Fund Analysis tool comprises the following specialized agents:
 
-1.  **Gather and analyze financial data:** Retrieve and present key financial metrics for a given stock.
-2.  **Perform news sentiment analysis:** Analyze recent news and social media to gauge market sentiment.
-3.  **Assess the macro-economic environment:** Evaluate how broader economic factors might impact the stock.
-4.  **Conduct technical analysis:** Analyze historical price trends and technical indicators.
-5.  **Develop a quantitative trading strategy:** Formulate a trading plan based on the analysis.
-6.  **Optimize portfolio allocation:** Suggest optimal asset weights and diversification.
-7.  **Evaluate regulatory compliance:** Identify potential regulatory risks.
-8.  **Assess overall risk:** Summarize potential risks and evaluate risk tolerance.
-9.  **Provide a comprehensive summary:** Offer a concise overview of the entire analysis.
+### **1. 📈 Financial Data Agent**
+- Gathers key financial metrics, including:
+  - Stock price, trading volume
+  - Financial ratios (P/E, P/B, dividend yield)
+  - Relevant market indicators and price trends
+
+### **2. 📰 News Sentiment Agent**
+- Analyzes recent news articles, social media trends, and expert opinions
+- Summarizes prevailing sentiment
+- Highlights key events that may impact stock performance
+
+### **3. 🌐 Macro-Economic Environment Agent**
+- Evaluates economic factors such as:
+  - GDP growth, inflation, interest rates
+  - Unemployment trends, central bank policies
+- Assesses how these factors influence the stock and broader market
+
+### **4. 📉 Technical Analysis Agent**
+- Examines historical price trends and key technical indicators:
+  - Moving averages, RSI, MACD, Bollinger Bands
+- Identifies support/resistance levels and potential trade signals
+
+### **5. 📊 Quantitative Strategy Agent**
+- Develops a sophisticated trading strategy based on:
+  - Financial data, sentiment analysis, macro trends, and technical indicators
+- Outlines asset allocation, entry/exit points, and risk management
+
+### **6. 📂 Portfolio Optimization Agent**
+- Suggests optimal asset allocation and diversification
+- Maximizes risk-adjusted returns by considering:
+  - Diversification strategies
+  - Asset correlation
+
+### **7. ⚖️ Regulatory Compliance Agent**
+- Assesses potential legal and regulatory risks
+- Ensures the trading strategy adheres to financial regulations
+- Highlights concerns such as market manipulation or compliance violations
+
+### **8. ⚠️ Risk Assessment Agent**
+- Identifies key risks such as:
+  - Market volatility, liquidity concerns, unexpected market events
+- Summarizes risk exposure in a structured format
+- Determines if the strategy aligns with acceptable risk tolerance
+
+### **9. 🔍 Summary Agent**
+- Synthesizes all analyses into a concise report
+- Summarizes key insights, potential risks, and recommended actions
+- Provides a final decision-making overview for investors
 
 ## Project Structure
 
